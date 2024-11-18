@@ -1,16 +1,15 @@
-## Hi there 👋
+### yasague ###
 
-<!--
-**Guzz1337/Guzz1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+* 🔭 I’m currently working on: making badass combos
+* 🌱 I’m currently learning use: my brain
+* 👯 I’m looking to collaborate on: no, i am a lonely wolf
+* 🤔 I’m looking for help with: i dont need help, i am a samurai of air
+* 💬 Ask me about: 1v1 trash?
+* 📫 How to reach me: am afk in base after die of 12 times in the lane fase
+* 😄 Pronouns: fee/ding
+* ⚡ Fun fact: i all ways die and rage quit
+
